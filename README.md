@@ -4,3 +4,6 @@ This repository focuses on analyzing restaurant data scraped from the Grubhub we
 Data Analysis Highlights Discover popular cuisines preferred by Grubhub customers in New York. Identify restaurants with the highest and lowest average ratings. Analyze average delivery times for different types of cuisines. Investigate popular locations in New York with the most number of restaurants. Explore correlations between ratings, cuisines, and delivery times. Contributing Contributions to this project are highly encouraged. If you find any issues or have suggestions for improvement, please create a pull request.
 
 Acknowledgements We extend our gratitude to Grubhub for providing the restaurant data crucial for this analysis. Additionally, we acknowledge the open-source community for the invaluable tools and libraries utilized in this project.
+
+![image](https://github.com/MSOMESHWAR/Food-Delivery/assets/156932357/e3aff635-be43-4d56-bc48-4a8b175c12b1)
+
